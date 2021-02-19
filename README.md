@@ -14,7 +14,7 @@
 
 - Run Kafka Producer (will provide a > prompt for writing messages)
 
-.\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic bearcat-messages
+.\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic kafka-java
 
 - Run Kafka Consumer (to show messages from the beginning)
 
